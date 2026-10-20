@@ -1,0 +1,22 @@
+{
+  "wheel_id": 483,
+  "structure": "umbrella",
+  "slug": "retainingwallipswich-106",
+  "project": "retaining-walls-ipswich-suburb-guide-e1feb157f2d513a7104b5d162d",
+  "parent_t1_ref": "retainingwallipswich-152",
+  "node_role": "feeder",
+  "money_target": "retainingwallipswich.com.au",
+  "primary_kw": "retaining walls ipswich suburb guide",
+  "intended_url": "https://sitesau.github.io/retainingwallipswich-106/",
+  "tier": "T2",
+  "writeback_nonce": "1130fb52b647302b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-walls-ipswich-signs-you-need-4b2c6a5ef01071b50c9c3d39/",
+      "anchor": "retaining walls ipswich signs you need explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
